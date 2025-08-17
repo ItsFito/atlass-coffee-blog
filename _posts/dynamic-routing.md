@@ -1,6 +1,6 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "The Art and Culture of Coffee: More Than Just a Drink"
+excerpt: "For many of us, coffee is more than just a morning pick-me-up—it’s a ritual, a comfort, and a global culture that connects people from all walks of life. From its ancient origins to the modern third-wave coffee movement, this beloved beverage has woven itself into history, society, and even art.."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
