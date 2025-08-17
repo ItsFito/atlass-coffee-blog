@@ -4,7 +4,7 @@ excerpt: "For many of us, coffee is more than just a morning pick-me-up—it’s
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: JJ Kasper
+  name: Its Fito
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
